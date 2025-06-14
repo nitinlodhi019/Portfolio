@@ -12,4 +12,4 @@ code - https://codesandbox.io/dashboard/recent
 
 forms - https://formspree.io/
 
-deployment - https://vercel.com/nitinlodhi019s-projects
+deployment - https://portfolio-eta-dun-87.vercel.app/
