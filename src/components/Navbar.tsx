@@ -23,7 +23,6 @@ export default function Navbar() {
     { href: "#experience", label: "Experience" },
     { href: "#projects", label: "Projects" },
     { href: "#education", label: "Education" },
-    { href: "#testimonials", label: "Testimonials" },
     { href: "#contact", label: "Contact" },
   ];
 
@@ -72,7 +71,7 @@ export default function Navbar() {
           <div className="flex items-center gap-4">
             <ThemeToggle />
             <a
-              href="/Nitin's resume.pdf"
+              href="/Nitin's%20resume.pdf"
               download
               className="flex items-center gap-2 bg-gradient-to-r from-blue-600 to-purple-600 text-white px-6 py-3 rounded-full shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 hover:from-blue-700 hover:to-purple-700"
             >
@@ -116,7 +115,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="/Nitin's resume.pdf"
+            href="/Nitin's%20resume.pdf"
             download
             className="flex items-center gap-2 bg-gradient-to-r from-blue-600 to-purple-600 text-white px-6 py-3 rounded-full shadow-lg w-fit mt-4"
           >

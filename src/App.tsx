@@ -7,7 +7,6 @@ import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Education from "./components/Education";
 import Certifications from "./components/Certifications";
-import Testimonials from "./components/Testimonials";
 import Contact from "./components/Contact";
 
 function App() {
@@ -22,7 +21,6 @@ function App() {
         <Projects />
         <Education />
         <Certifications />
-        <Testimonials />
         <Contact />
       </div>
     </ThemeProvider>
