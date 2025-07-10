@@ -65,14 +65,15 @@ export default function Contact() {
     {
       icon: FaEnvelope,
       title: "Email",
-      value: "nitinkumar@example.com",
-      link: "mailto:nitinkumar@example.com",
+      value: "1435nitinkumar@gmail.com",
+      link: "mailto:1435nitinkumar@gmail.com",
       color: "from-blue-500 to-purple-600"
     },
     {
       icon: FaPhone,
       title: "Phone",
-      value: "Available on request",
+      value: "+919260912506",
+      link: "tel:+919260912506",
       color: "from-green-500 to-emerald-600"
     },
     {
